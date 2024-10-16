@@ -1,0 +1,25 @@
+{
+  "RestClient": {
+
+  },
+  "RestRequest": {
+    "Headers": {
+      "Content-Type": "application/json"
+    },
+    "Body": {
+
+    }
+  },
+  "GenericParameters": {
+    "RequestMethod": "GET",
+    "EndpointURL": "https://docai-dev.kpmgtaxconnect.co.uk/document-upload-link",
+    "AuthorizationURL": null
+  },
+  "Payload": {
+
+  },
+  "ValidationParameters": {
+  },
+  "ResponseValidation": {
+  }
+}
