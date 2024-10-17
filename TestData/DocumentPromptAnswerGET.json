@@ -1,0 +1,26 @@
+{
+  "RestClient": {
+
+  },
+  "RestRequest": {
+    "Headers": {
+      "Content-Type": "application/json"
+    },
+    "Body": {
+
+    }
+  },
+  "GenericParameters": {
+    "RequestMethod": "GET",
+    "EndpointURL": "/application/{applicationId}/document/{documentId}/promptanswers",
+    "AuthorizationURL": null
+  },
+  "Payload": {
+    "applicationId": "PrivateClient",
+    "documentId": "26f6fd16-4b4b-4b22-9973-e6ab50b42841"
+  },
+  "ValidationParameters": {
+  },
+  "ResponseValidation": {
+  }
+}
